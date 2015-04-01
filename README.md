@@ -1,1 +1,1 @@
-Shopping list project following the old-version of the instruction
+Shopping list project following the old-version of the instructions
