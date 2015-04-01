@@ -1,1 +1,1 @@
-Shopping list project from the old-version of the thinkful node course
+Shopping list project following the old-version of the instruction
